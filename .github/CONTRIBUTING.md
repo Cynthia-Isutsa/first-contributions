@@ -17,6 +17,7 @@ If you're making changes to a translation, please request a review from our prev
 | Bulgarian | [Bulgarian](../translations/README.bg.md) | []() |
 | Bosnian | [Bosnian](../translations/README.bih.md) | []() |
 | বাংলা | [Bengali](../translations/README.bn.md) | [<img width="100" src="https://avatars3.githubusercontent.com/u/12910423?s=460&v=4" alt="@cse031sust02" />](https://github.com/cse031sust02) |
+Cynthia
 | Belarusian | [Belarusian](../translations/README.by.md) | []() |
 | Català | [Catalan](../translations/README.ca.md) | [<img width="100" src="https://avatars0.githubusercontent.com/u/16263046?s=460&v=4" alt="@Sergih28" />](https://github.com/Sergih28) |
 | čeština | [Czech](../translations/README.cs.md) | []() |
